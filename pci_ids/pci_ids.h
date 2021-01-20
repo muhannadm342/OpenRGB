@@ -15,6 +15,7 @@
 | AMD GPU Device IDs                                    |
 \*-----------------------------------------------------*/
 #define AMD_RX580_DEV                           0x67DF
+#define AMD_RX5700_DEV                          0x731F
 
 /*-----------------------------------------------------*\
 | Intel Device IDs                                      |
@@ -123,6 +124,7 @@
 #define MSI_RTX3080_SUPRIM_X_SUB_DEV            0x3897
 #define MSI_RTX3090_GAMING_X_TRIO_SUB_DEV       0x3884
 #define MSI_RTX3090_SUPRIM_X_SUB_DEV            0x3882
+#define MSI_RX5700_GAMING_X_SUB_DEV             0x3818
 
 /*-----------------------------------------------------*\
 | Sapphire Sub-Device IDs                               |
